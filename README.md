@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kishanks16
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Web Developing
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kishanks5678@gmail.com
 
 <!---
